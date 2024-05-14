@@ -3,7 +3,5 @@
 #include "settings.h"
 
 void runTitle();
-
 void displayTitle();
-
 void processTitleInput(int nInput);
