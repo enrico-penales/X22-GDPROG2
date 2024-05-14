@@ -19,7 +19,7 @@ void displayTitle() {
 	printf("\t   [2] Settings\n");
 	printf("\t   [0] Exit");
     printf("\n");
-    printf("\t\n[INPUT] : ");
+    printf("\t\n	[INPUT] : ");
 }
 
 void processTitleInput(int nInput) {

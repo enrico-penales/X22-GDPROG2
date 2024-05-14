@@ -17,7 +17,7 @@ void displaySettings() {
     printf("\t╚════════════════════╝ \n");
 	printf("\t   [0] Exit");
     printf("\n");
-    printf("\t\n[INPUT] : ");
+    printf("\t\n	[INPUT] : ");
 }
 
 void processSettingsInput(int nInput) {
