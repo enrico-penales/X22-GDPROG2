@@ -2,4 +2,5 @@
 
 void runArea();
 void displayArea();
-void processAreaInput(int nInput);
+void processAreaInput(char cInput, int* pPlayerLocation);
+void displayAreaBoard(int nPlayerLocation);

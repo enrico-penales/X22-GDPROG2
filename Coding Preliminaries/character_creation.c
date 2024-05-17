@@ -17,7 +17,7 @@ void displayCharacterCreation() {
     printf("\t╚════════════════════╝ \n");
     printf("\t   [0] Exit");
     printf("\n");
-    printf("\t\n	[INPUT] : ");
+    printf("\t[INPUT] : ");
 }
 
 void processCharacterCreationInput(int nInput) {

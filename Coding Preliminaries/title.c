@@ -19,14 +19,14 @@ void displayTitle() {
 	printf("\t   [2] Settings\n");
 	printf("\t   [0] Exit");
     printf("\n");
-    printf("\t\n	[INPUT] : ");
+    printf("\t[INPUT] : ");
 }
 
 void processTitleInput(int nInput) {
 	switch(nInput) {
 		case 1:
 		// OPEN
-		runCharacterCreation();
+		runArea();
 		break;
 
 		case 2:
