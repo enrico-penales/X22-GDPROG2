@@ -1,6 +1,6 @@
 #pragma once
 
 void runArea();
-void displayArea();
-void processAreaInput(char cInput, int* pPlayerLocation);
-void displayAreaBoard(int nPlayerLocation);
+void displayArea(int* pTiles, int nSize);
+void processAreaInput(char cInput, int* pTiles, int nSize);
+void displayAreaBoard(int* pTiles, int nSize);
