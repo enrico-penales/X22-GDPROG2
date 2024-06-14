@@ -105,8 +105,6 @@ void processAreaInput(char cInput, int* pTiles, int nSize) {
                 }
                 nFound = 1;
             } 
-            
-        }   
             break;
         case 'd':
         case 'D':
